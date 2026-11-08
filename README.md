@@ -1,6 +1,7 @@
-# Latent Hack
+# Earlier concept for The Age of Aesthetic Intelligence (previously Latent Hacks)
 
-**Latent Hack: Global Youth AI Art Exhibition**
+
+**Latent Hacks: Global Youth AI Art Exhibition**
 
 Current Status: Platform Launching Feb 2026  
 
